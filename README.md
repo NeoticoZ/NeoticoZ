@@ -21,16 +21,15 @@
 
 <img src="https://66.media.tumblr.com/9611547d0c3d775c80a9eda06fa5cffc/tumblr_nd35neloJ71rqfhi2o1_500.gif" />
 
-<div>
-<a href="https://github.com/NeoticoZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeoticoZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoticoZ&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-  
  ## Contato
   
 📫 Me mande uma mensagem:
 
 <a href="https://www.linkedin.com/in/heriks-araujo-dias-577261217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:heriksaraujodias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div>
+<a href="https://github.com/NeoticoZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeoticoZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoticoZ&layout=compact&langs_count=7&theme=dracula"/>
+</div>
