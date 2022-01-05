@@ -19,6 +19,8 @@
 
 🎹 Também sou músico e apaixonado por tocar bateria.
 
+<img src="https://66.media.tumblr.com/9611547d0c3d775c80a9eda06fa5cffc/tumblr_nd35neloJ71rqfhi2o1_500.gif" />
+
 <div>
 <a href="https://github.com/NeoticoZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeoticoZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
