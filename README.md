@@ -7,7 +7,7 @@
 - Eu me chamo Heriks, tenho 21 anos e moro na cidade de Senador Canedo/GO. Sou apaixonado por tecnologia e principalmente pela arte de programar! ♥️
 - Gosto de ir atrás, de aprender e de constantemente evoluir. 🚀
 
-## Mais informações 🏠
+## Continue lendo...
 
 Aqui vai um cafezinho ☕. Sinta-se a vontade!
 
