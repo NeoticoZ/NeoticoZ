@@ -4,8 +4,7 @@
 
 ## Hey guys! 👋
 
-- I'm Heriks, I'm 21 years old and I live in Senador Canedo/GO, Brazil. I love technology and especially the art of programming. ♥️
-- I love solving problems and learning new technologies. 🚀
+- I'm Heriks, I'm 21 years old and I live in Senador Canedo/GO, Brazil. I love technology and especially the art of programming. 🚀
 
 ## Keep reading...
 
