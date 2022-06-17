@@ -2,7 +2,7 @@
 
 # Heriks Araujo 
 
-## Hello, guys! 👋
+## Hey, guys! 👋
 
 - My name is Heriks. I am 21 years old and currently reside in Senador Canedo/GO, Brazil. I am fascinated by technology, particularly the art of programming. 🚀
 
