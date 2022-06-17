@@ -4,7 +4,7 @@
 
 ## Hey, guys! 👋
 
-- My name is Heriks. I'm 21 years old and currently reside in Senador Canedo/GO, Brazil. I'm fascinated by technology, particularly the art of programming. 🚀
+- My name is Heriks. I'm 21 years old and currently reside in Senador Canedo/GO, Brazil. I love technology, particularly the art of programming. 🚀
 
 ## Keep reading...
 
