@@ -2,10 +2,6 @@
 
 - My name is Heriks. I'm 21 years old and currently reside in Senador Canedo/GO, Brazil. I love technology, particularly the art of programming. 🚀
 
-## Keep reading...
-
-Please accept this cup of coffee ☕. Find out more about me.
-
 <img src="https://camo.githubusercontent.com/7ff31bf674c5358f243c50ad2d3709af50a98c28e1f478dcc898309b973a4099/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" />
 
 🖥️ These are the technologies I've been studying:
